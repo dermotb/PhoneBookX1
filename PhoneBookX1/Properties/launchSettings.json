@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PhoneBookX1": {
+      "commandName": "Project",
+      "commandLineArgs": "add 098-554444 \"Loretta Lynn\""
+    }
+  }
+}
